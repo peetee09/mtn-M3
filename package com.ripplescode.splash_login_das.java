@@ -1,4 +1,4 @@
-package com.ripplescode.splash_login_dashboard_flutter_getx;
+package com.login.splash_login_dashboard_flutter_getx;
 
 import io.flutter.embedding.android.FlutterActivity;
 
